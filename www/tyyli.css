@@ -1,0 +1,31 @@
+
+a {
+  color: white;
+}
+th {
+  font-size: 250%
+  
+}
+table {
+  width: 80%
+  
+  
+  
+
+}
+header {
+  background-color: red;
+  
+  font-family: "Comic Sans MS", "Comic Sans";
+  
+}
+h1 {
+  text-align: center;
+}
+
+
+@media only screen and (max-width: 10px) {
+  div.tietokone {
+    display: none;
+  }
+}
